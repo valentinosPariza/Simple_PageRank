@@ -1,0 +1,15 @@
+/**
+
+@mainpage  (Subject 2 - PageRank Algorithm)
+
+@author Valentinos Pariza
+
+This program uses an algorithm for calculating the pageRank of a host in 
+association with the hyperlinks that link to it.It reads all the hosts from 
+a file and its links and uses this information to print some general information
+about the Hosts and the links.It uses an formula for calculating the pageRank 
+of each host via some data about the links of each host.
+
+For more information @see https://en.wikipedia.org/wiki/PageRank.
+
+*/
